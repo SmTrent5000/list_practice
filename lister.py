@@ -1,3 +1,4 @@
+#new code
 def count_character(string):
     count = 0
     for i in string:
